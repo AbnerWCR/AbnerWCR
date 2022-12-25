@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante de programação e atualmente trabalho como desenvolvedor .NET full stack
 - 🌱 Os assuntos que mais estudo atualmente são DDD e Clean Code
-- 📖 Gosto de novos desafios e de conhecer novas linguagnes
+- 📖 Gosto de novos desafios e de conhecer novas linguagens de programação
 
 <div align="center">
   <a href="https://github.com/AbnerWCR">
