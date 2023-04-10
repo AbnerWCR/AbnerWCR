@@ -1,6 +1,6 @@
 ### Hello world, meu nome é Abner Wallace
 
-- 🔭 Sou estudante de programação e atualmente trabalho como desenvolvedor .NET full stack
+- 🔭 Sou estudante de Ciência da Computação pela UFMG
 - 🌱 Os assuntos que mais estudo atualmente são DDD e Clean Code
 - 📖 Gosto de novos desafios e de conhecer novas linguagens de programação
 
